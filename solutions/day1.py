@@ -1,4 +1,4 @@
-with open('./solutions/day1-input.txt') as f:
+with open('./solutions/inputs/day1-input.txt') as f:
     lines = f.readlines()
 
 # PART 1 solution - explicitly summing up

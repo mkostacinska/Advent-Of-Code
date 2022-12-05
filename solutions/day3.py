@@ -1,4 +1,4 @@
-with open('./solutions/day3-input.txt') as f:
+with open('./solutions/inputs/day3-input.txt') as f:
     lines = f.readlines()
 lines = [line.rstrip('\n') for line in lines]
 
